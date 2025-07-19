@@ -2,6 +2,8 @@
 
 A collection of scripts to customize terminal appearance and monitor color effects.
 
+![Terminal Customization](terminal-customization-close.JPEG)
+
 ## Contents
 
 ### 1. theme-switcher.sh
